@@ -92,7 +92,7 @@ const AppHeader = observer(() => {
                     <Button
                         tertiary
                         onClick={() => {
-                            window.location.replace('https://oauth.deriv.com/oauth2/authorize?app_id=38869&l=EN&brand=binarymafia');
+                            window.location.replace('https://oauth.deriv.com/oauth2/authorize?app_id=76083&l=EN&brand=binarymafia');
                         }}
                     >
                         <Localize i18n_default_text='Log in' />

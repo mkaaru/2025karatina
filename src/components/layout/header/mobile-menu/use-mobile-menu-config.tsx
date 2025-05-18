@@ -55,8 +55,8 @@ const useMobileMenuConfig = (client?: RootStore['client']) => {
         [
             {
                 as: 'a',
-                href: 'https://binarymafia.site',
-                label: localize('binarymafia.site'),
+                href: 'https://2025karatina.vercel.app',
+                label: localize('proderivtraders'),
                 LeftComponent: BrandDerivLogoCoralIcon,
             },
             {
